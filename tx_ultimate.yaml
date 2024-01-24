@@ -22,7 +22,7 @@ substitutions:
   longitude: "5.654321°"
 
   touch_brightness: "1"
-  touch_color: "{0,100,100}"
+  touch_color: "{100,0,0}"
   touch_effect: "Scan"
 
   long_press_brightness: "1"

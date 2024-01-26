@@ -11,7 +11,7 @@ substitutions:
   vibra_time: 150ms
   button_on_time: 500ms
 
-  button_brightness: "0.7"
+  button_brightness: "1"
   button_color: "{0,0,100}"
 
   nightlight: "on"

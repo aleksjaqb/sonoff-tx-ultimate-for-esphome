@@ -23,7 +23,6 @@ substitutions:
 
   touch_brightness: "1"
   touch_color: "{100,0,0}"
-  touch_effect: "Scan"
 
   long_press_brightness: "1"
   long_press_color: "{100,0,0}"
